@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-
+ <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <img src="https://cdn.jsdelivr.net/gh/Jsu-ysj/Jsu-ysj/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 <!--
 **Jsu-ysj/Jsu-ysj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
