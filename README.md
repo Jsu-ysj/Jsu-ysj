@@ -3,5 +3,5 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jsu-ysj&theme=radical" width = 1000, heigth = 500 align=center/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jsu-ysj&theme=radical" width = 800, heigth = 500 align=center/>
 
